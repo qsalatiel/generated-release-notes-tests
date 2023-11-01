@@ -1,0 +1,19 @@
+changelog:
+  exclude:
+    labels:
+      - ignore-for-release
+    authors:
+      - octocat
+  categories:
+    - title: Exciting New Features 🎉
+      labels:
+        - new-feature
+    - title: Improvements
+      labels:
+        - improvement
+    - title: Nasty bug fixes
+      labels:
+        - bug
+    - title: Developer logs:
+      labels:
+        - "*"
